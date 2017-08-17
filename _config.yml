@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Adit Deshpande
+name: Rajen
 
 # Short bio or description (displayed in the header)
-description: CS Undergrad at UCLA ('19)
+description: Free Worker
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAI-AAAAJDY5YmU0MmU0LWU2NzctNDI4Zi04ZTk4LTdlNjE1NGMyYzE2NQ.jpg
+avatar: https://github.com/rajenlyz/rajenlyz.github.io/blob/master/images/picture.jpg
 
 #
 # Flags below are optional
@@ -18,15 +18,15 @@ avatar: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAI-AAAAJDY
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: adeshpande3@g.ucla.edu
-  facebook: adit.deshpande.5
+  email: 
+  facebook: 
   flickr:
-  github: adeshpande3
-  instagram: thejugglinguy
-  linkedin: aditdeshpande
+  github: rajenlyz
+  instagram: 
+  linkedin: 
   pinterest:
-  rss: adeshpande
-  twitter: aditdeshpande3
+  rss: 
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-80811190-1
+google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -47,7 +47,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/adeshpande3.github.io"
+baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!
