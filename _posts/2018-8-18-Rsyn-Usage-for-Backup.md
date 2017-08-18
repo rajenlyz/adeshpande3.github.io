@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Rsync Usage for Backup
 tags: [rsync, backup]
 ---
