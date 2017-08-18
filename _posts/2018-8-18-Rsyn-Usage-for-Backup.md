@@ -32,7 +32,7 @@ Secondly, pre-conditions consist of:
 * rsync client ip: 10.155.12.8
 * rsync client dir: /tmp/rajen-rs
 
-# Rsync Server
+## Rsync Server
 
 In the rsync server, there are three steps to setup BUM server.
 
@@ -98,7 +98,7 @@ But by this method, when the server is reboot, the process is unable to self-sta
 $ echo >> "sudo rsync --daemon" >> /etc/rc.d/rc.local
 ```
 
-# Rsync Client
+## Rsync Client
 
 Before upload files, firstly add a configuration for rsync password.
 ```
